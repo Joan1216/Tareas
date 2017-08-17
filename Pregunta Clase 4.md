@@ -5,8 +5,7 @@
 **¿ Cuales son las instrucciones de control de transferencia (CTI)?.**
 
 <h2> Estas instrucciones mueven datos de una parte a otra del sistema; desde y hacia la memoria
-principal, de y a los registros de datos, puertos de E/S y registros de segmentación.
-Las instrucciones de transferencia de datos son las siguientes:</h2> 
+principal, de y a los registros de datos, puertos de E/S y registros de segmentación.  Las instrucciones de transferencia de datos son las siguientes:</h2> 
 <h2>  
 
 + MOV transfiere
